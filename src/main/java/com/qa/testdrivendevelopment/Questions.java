@@ -22,7 +22,7 @@ public class Questions {
 		if (input.contains("ie")) {
 			if (input.contains("cie")) {
 				return false;
-			}x
+			}
 			return true;
 		}
 		return false;
